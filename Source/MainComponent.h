@@ -19,6 +19,7 @@ public:
     void resized() override;
 
 private:
+    juce::ToggleButton toggleButton;
     //==============================================================================
     // Your private member variables go here...
 
